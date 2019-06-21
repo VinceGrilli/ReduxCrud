@@ -1,3 +1,3 @@
-#A WIP Twitch clone
+Basic React/Redux CRUD app boilerplate
 
-A twitch clone project to learn more intermediate React and Redux
+Made while building Streamy but a good starting point for any CRUD app
